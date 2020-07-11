@@ -18,7 +18,7 @@ Infosec Grad 2020. Healthcare Worker :ambulance:
 - DevOps
 - CTF Making
 
-:mailbox_with_mail: Curious? Drop a line:
+### Curious? Drop a line: :mailbox_with_mail:
 - ben(at)cmnatic.co.uk
 - pgp.cmnatic.co.uk
 
