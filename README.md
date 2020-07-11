@@ -1,12 +1,24 @@
 ### Virtually Ubiquitous 🌱
 I make things to break them - sometimes in that order. Any questions?
 
-Infosec Grad 2020. Healthcare Worker.
+Infosec Grad 2020. Healthcare Worker :ambulance:
 
 :computer: Moderator, tester, tinkerer & Comissoned content creator for [TryHackMe](https://tryhackme.com/p/cmnatic). Former top 25.
 
+### To-Do :pencil:
+- THM Malware Analysis Pathway
+- Refine & open source my Malware AI classification framework
+- Develop my portfolio
+- De-serialization CTF's
 
-:love_letter: Curious? Drop a line:
+### Interests :boom:
+- Malware Analysis
+- AI
+- AWS, GCP & Azure Stacks
+- DevOps
+- CTF Making
+
+:mailbox_with_mail: Curious? Drop a line:
 - ben(at)cmnatic.co.uk
 - pgp.cmnatic.co.uk
 
