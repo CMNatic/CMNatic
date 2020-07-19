@@ -3,7 +3,7 @@ I make things to break them - sometimes in that order. Any questions?
 
 Infosec Grad 2020. Healthcare Worker :ambulance:
 
-:computer: Moderator, tester, tinkerer & Comissoned content creator for [TryHackMe](https://tryhackme.com/p/cmnatic). Former top 25.
+:computer: Moderator, tester, tinkerer & comissoned content creator for [TryHackMe](https://tryhackme.com/p/cmnatic). Former top 25.
 
 ### To-Do :pencil:
 - THM Malware Analysis Pathway
