@@ -19,8 +19,8 @@ Infosec Grad 2020. Healthcare Worker :ambulance:
 - CTF Making
 
 ### Curious? Drop a line: :mailbox_with_mail:
+- [pgp](pgp.cmnatic.co.uk)
 - ben(at)cmnatic.co.uk
-- pgp.cmnatic.co.uk
 
 :rainbow_flag: #LGBTQSTEM
 
