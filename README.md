@@ -6,10 +6,6 @@ Infosec Grad 2020. Healthcare Worker :ambulance:
 :computer: Moderator, tester, tinkerer & comissoned content creator for [TryHackMe](https://tryhackme.com/p/cmnatic). Former top 25.
 
 ### [To-Do](http://todo.cmnatic.co.uk) :pencil:
-- THM Malware Analysis Pathway
-- Refine & open source my Malware AI classification framework
-- Develop my portfolio
-- De-serialization CTF's
 
 ### Interests :boom:
 - Malware Analysis
