@@ -1,7 +1,7 @@
 <h1 align="center"> Ben | CMNatic 🌱 </h1>
 <h3 align="center">InfoSec Graduate, Docker Enthusiast.</h3>
 <p align="center">Tinkerer, moderator, content creator, reviewer & former top 25 at <a href="https://tryhackme.com/p/cmnatic">TryHackMe.</a></p>
-<h3 align="center"><a href="https://oldblog.cmnatic.co.uk">Blog</a> | <a href="https://resources.cmnatic.co.uk">Resources</a> | <a href="https://pgp.cmnatic.co.uk/cmnatic.gpg">PGP</a></h3>
+<h3 align="center"><a href="https://oldblog.cmnatic.co.uk">Blog</a> | <a href="https://resources.cmnatic.co.uk"><s>Resources</s></a> | <a href="https://pgp.cmnatic.co.uk/cmnatic.gpg">PGP</a></h3>
 
 <!-- <h3 align="center">Virtually Ubiquitous 💥</h3> -->
 
