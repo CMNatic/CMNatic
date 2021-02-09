@@ -7,11 +7,10 @@
 
 
 
-<!--
 ---
-[![pgp](https://img.shields.io/badge/pgp-0xd93b83ba2-313131?style=flat-square&labelColor=313131&color=313131)](https://pgp.cmnatic.co.uk/cmnatic.gpg)
+[![pgp](https://img.shields.io/badge/pgp-0xd93b83ba2-313131?style=flat-square&labelColor=313131&color=313131)](https://blog.cmnatic.co.uk/cmnatic-pgp.txt)
 [![twitter](https://img.shields.io/badge/@cmnatic_-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/cmnatic)
 ---
--->
+
 
 <p align="center">🏳️‍🌈 #LGBTQSTEM | He/Him </p>
