@@ -1,5 +1,5 @@
 <h1 align="center"> Ben | CMNatic 🌱 </h1>
-<h3 align="center">InfoSec Graduate, Docker Enthusiast.</h3>
+<h3 align="center">InfoSec Graduate, malware analysis, DFIR & Docker enthusiast 🐳 </h3>
 <p align="center">Jr. Content Engineer & Lead room reviewer at <a href="https://tryhackme.com/p/cmnatic">TryHackMe.</a></p>
 <h3 align="center"><a href="https://blog.cmnatic.co.uk">Blog</a> | <a href="http://resources.cmnatic.co.uk">Resources</a> | <a href="https://blog.cmnatic.co.uk/cmnatic-pgp.txt">PGP</a></h3>
 
