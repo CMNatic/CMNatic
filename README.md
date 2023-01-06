@@ -1,5 +1,5 @@
 <h1 align="center"> Ben | CMNatic 🌱 </h1>
-<h3 align="center">Cyber Security Masters postgra, I teach cybersecurity and am interested in all things AI, malware analysis, DFIR & Docker 🐳 </h3>
+<h3 align="center">Cyber Security Masters postgrad, I teach cybersecurity and am interested in all things AI, malware analysis, DFIR & Docker 🐳 </h3>
 <p align="center">Content Engineer & Community Moderator <a href="https://tryhackme.com/p/cmnatic">TryHackMe.</a></p>
 <h3 align="center"><a href="https://blog.cmnatic.co.uk">Blog</a> | <a href="http://resources.cmnatic.co.uk">Resources</a> | <a href="https://blog.cmnatic.co.uk/cmnatic-pgp.txt">PGP</a></h3>
 
